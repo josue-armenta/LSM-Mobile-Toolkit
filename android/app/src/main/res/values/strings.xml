@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Traductor LSM</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">disconnected</string>
+    <string name="unknown_service">Unknown service</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="dialog_upload_samples">Upload samples</string>
+    <string name="dialog_upload_samples_message">Do you want to sync all missing cloud files?</string>
+    <string name="dialog_save_samples">Save batch</string>
+    <string name="dialog_save_samples_message">Do you want to save this batch?</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="data_collection">Traductor</string>
+    <string name="files">Archivos</string>
+    <string name="sync">Sync</string>
+    <string name="dialog_delete_samples">Delete File</string>
+    <string name="dialog_delete_samples_message">Do you want to continue with the file removal?</string>
+    <string name="delete">Delete</string>
+
+    <string-array name="signs_array">
+        <item>YO</item>
+        <item>TU</item>
+        <item>CAFE</item>
+        <item>VER</item>
+        <item>SABER</item>
+        <item>MUCHO</item>
+        <item>COMER</item>
+        <item>RAPIDO</item>
+    </string-array>
+
+<!--    <string-array name="signs_array">-->
+<!--        <item>A</item>-->
+<!--        <item>B</item>-->
+<!--        <item>C</item>-->
+<!--        <item>D</item>-->
+<!--        <item>E</item>-->
+<!--        <item>F</item>-->
+<!--        <item>G</item>-->
+<!--        <item>H</item>-->
+<!--        <item>I</item>-->
+<!--        <item>J</item>-->
+<!--        <item>K</item>-->
+<!--        <item>L</item>-->
+<!--        <item>LL</item>-->
+<!--        <item>M</item>-->
+<!--        <item>N</item>-->
+<!--        <item>Ñ</item>-->
+<!--        <item>O</item>-->
+<!--        <item>P</item>-->
+<!--        <item>Q</item>-->
+<!--        <item>R</item>-->
+<!--        <item>RR</item>-->
+<!--        <item>S</item>-->
+<!--        <item>T</item>-->
+<!--        <item>U</item>-->
+<!--        <item>V</item>-->
+<!--        <item>W</item>-->
+<!--        <item>X</item>-->
+<!--        <item>Y</item>-->
+<!--        <item>Z</item>-->
+<!--    </string-array>-->
+
+</resources>

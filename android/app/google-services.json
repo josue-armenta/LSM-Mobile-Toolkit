@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "960917085312",
+    "project_id": "lsmsignrecognition",
+    "storage_bucket": "lsmsignrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960917085312:android:19f1d857a81b3ddd82da65",
+        "android_client_info": {
+          "package_name": "com.unade.lsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdrrtcMGIcQ5hwbkzOlVYcL9pWCcP6e5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
